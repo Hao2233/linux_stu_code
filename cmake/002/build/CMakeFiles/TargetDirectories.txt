@@ -1,0 +1,3 @@
+/home/zhanghao/linux_stu_code/cmake/002/build/CMakeFiles/math_stu.dir
+/home/zhanghao/linux_stu_code/cmake/002/build/CMakeFiles/edit_cache.dir
+/home/zhanghao/linux_stu_code/cmake/002/build/CMakeFiles/rebuild_cache.dir

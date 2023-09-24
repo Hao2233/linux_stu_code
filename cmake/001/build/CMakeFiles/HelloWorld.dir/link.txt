@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall CMakeFiles/HelloWorld.dir/main.cpp.o -o HelloWorld 

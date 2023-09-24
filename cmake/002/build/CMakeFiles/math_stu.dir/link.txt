@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall CMakeFiles/math_stu.dir/code/src/main.cpp.o -o math_stu 

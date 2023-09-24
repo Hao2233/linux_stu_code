@@ -1,0 +1,4 @@
+/home/zhanghao/linux_stu_code/cmake/001/build/CMakeFiles/HelloWorld.dir
+/home/zhanghao/linux_stu_code/cmake/001/build/CMakeFiles/clean-all.dir
+/home/zhanghao/linux_stu_code/cmake/001/build/CMakeFiles/edit_cache.dir
+/home/zhanghao/linux_stu_code/cmake/001/build/CMakeFiles/rebuild_cache.dir
