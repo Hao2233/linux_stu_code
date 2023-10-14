@@ -49,3 +49,12 @@ message(STATUS "CMAKE_CXX_FLAGS_DEBUG: ${CMAKE_CXX_FLAGS_DEBUG}")
 
 # 二进制文件
 add_executable(${PROJECT_NAME} ${SRC_LIST})
+
+
+# include_directories()指令
+# 用于向工程添加多个特定的头文件搜索路径，路径之间用空格分割
+# 语法：include_directories([AFTER|BEFORE] [SYSTEM] dir1 dir2 ...)
+# AFTER|BEFORE：指定搜索路径是添加到其他路径之前还是之后
+# SYSTEM：指定包含的目录是系统目录，编译时会去系统目录搜索头文件
+# dir1 dir2：指定搜索的路径
+
